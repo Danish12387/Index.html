@@ -14,5 +14,5 @@ else if(userpercentage >=70 && userpercentage <=80){
     alert("your grade is B.")
 }
 else{
-    alert("you are fail gand marao")
+    alert("you are fail")
 }
